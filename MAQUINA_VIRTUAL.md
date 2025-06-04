@@ -23,7 +23,7 @@ Ao concluir este desafio, você será capaz de:
 
 ## 📄 Resumo Técnico
 
-> ✅ Confira o resumo completo com todos os aprendizados práticos em [RESUMO.md](./RESUMO.md)
+> ✅ Confira o resumo completo com todos os aprendizados práticos em [README.md](./README.md)
 
 Nele você encontrará:
 
