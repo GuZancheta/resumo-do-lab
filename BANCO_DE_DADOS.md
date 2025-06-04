@@ -34,7 +34,7 @@ A criação foi feita diretamente pelo portal do Azure, seguindo os seguintes pa
 - Seleção do **Grupo de Recursos** ou criação de um novo
 - Nomeação da instância e escolha da **região**
 - Definição do **nível de preço** (DTU ou vCore)
-- Escolha do **modo de autenticação** (SQL ou Azure AD)
+- Escolha do **modo de autenticação** (SQL ou Azure Entra ID)
 - Criação de **usuário administrador**
 - Ativação da **configuração de rede**, incluindo a regra de firewall para o IP local
 
